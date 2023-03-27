@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="V0)q(F#`Mc*L4A$Sa,tT" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="#kpOtM=9h{?.(XO~=}H@"><field name="LEDS">`
+        # . # . # 
+        # . # . # 
+        # . # # # 
+        # . . . # 
+        # . . . #
+        `</field></block></statement></block><block type="device_forever" id="K5N_#W=2*|rIfM`@3Lrs" x="-20" y="361"><statement name="HANDLER"><block type="OmniBit_CarRun" id="tr0Fxb4|3HM/fRYuwx`P"><field name="direction">OmniBit.enCarRun.MoveLeft</field><value name="speed"><shadow type="math_number_minmax" id="mRjRi]Dl#BV21cG|Qp)F"><mutation min="0" max="255" label="Speed" precision="0"></mutation><field name="SLIDER">255</field></shadow></value></block></statement></block></xml>
